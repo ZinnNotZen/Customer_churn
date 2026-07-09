@@ -1,5 +1,8 @@
 # Customer_churn
-Exploring data to see what factors impact the churn rate of telecommunications company
+Exploring data to see what factors impact the churn rate of telecommunications company.
+
+<img width="653" height="862" alt="Executive Overview" src="https://github.com/user-attachments/assets/5ca0be57-2d8a-4d2c-93b0-fab15f44c19c" />
+
 
 ## Project Overview
 
